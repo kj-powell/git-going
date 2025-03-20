@@ -2,3 +2,5 @@
 Let's GIT Going
 
 * Riaan Kleinhans
+
+* Kate
